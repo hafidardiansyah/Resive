@@ -1,16 +1,32 @@
-# flutter_responsive
+<h1 align="center">Selamat datang di Resive! 👋</h1>
+    
+![Resive - Screenshot](/assets/screenshot.png)
 
-A new Flutter project.
+<p align ="Center">
 
-## Getting Started
+<img src="https://img.shields.io/github/issues/hafidardiansyah/Resive?style=flat-square">
+<img src="https://img.shields.io/github/stars/hafidardiansyah/Resive?style=flat-square">
+<img src="https://img.shields.io/github/forks/hafidardiansyah/Resive?style=flat-square">
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### 🤔 Apa itu Resive?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Resive adalah aplikasi halaman portfolio, yang dibuat oleh <a href="https://github.com/hafidardiansyah"> Hafid Ardiansyah</a>. Menggunakan teknologi Flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🎉 Kenapa membuat Resive?
+
+Karena untuk melatih saya membuat responsive di Flutter.
+
+### ✨ Demo
+
+Demo dapat kalian kunjungi di https://tender-varahamihira-bf65bd.netlify.app/#/
+
+### 📝 Lisensi
+
+- Copyright © 2020 Hafid Ardiansyah.
+- **Resive MIT License.**
+
+---
+
+- **Made with ❤️ by Hafid Ardiansyah**
