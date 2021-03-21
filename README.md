@@ -20,7 +20,7 @@ Karena untuk melatih saya membuat responsive di Flutter.
 
 ### ✨ Demo
 
-Demo dapat kalian kunjungi di https://tender-varahamihira-bf65bd.netlify.app/#/
+Demo dapat kalian kunjungi di https://youthful-roentgen-423a8f.netlify.app/#/
 
 ### 📝 Lisensi
 
