@@ -24,7 +24,7 @@ Demo dapat kalian kunjungi di https://youthful-roentgen-423a8f.netlify.app/#/
 
 ### 📝 Lisensi
 
-- Copyright © 2020 Hafid Ardiansyah.
+- Copyright © 2021 Hafid Ardiansyah.
 - **Resive MIT License.**
 
 ---
